@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/home/preston/Desktop/Science/Research/QTApplications/eventfinder/Buttons">
+        <file>ZoomIn.png</file>
+        <file>ZoomIn_y.png</file>
+    </qresource>
+</RCC>

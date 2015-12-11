@@ -1,0 +1,14 @@
+#ifndef EVENTLIST_H
+#define EVENTLIST_H
+
+class EventList
+{
+public:
+    EventList();
+    void setCurrentEvent(Event event);
+    Event getCurrentEvent();
+private:
+    Event* currentevent;
+};
+
+#endif // EVENTLIST_H
